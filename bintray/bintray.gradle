@@ -72,7 +72,7 @@ bintray {
 
     configurations = ['archives']
     pkg {
-        repo = "CraigSource"
+        repo = "CraigCode"
         name = PUBLISH_ARTIFACT_ID
         version {
             name = PUBLISH_VERSION
